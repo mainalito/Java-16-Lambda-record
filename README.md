@@ -1,5 +1,5 @@
 # Java-16-Lambda & record
-Use of record and lamda basics
+Use of record and lambda basics
 ## Java Record
 Records were introduced to the Java language to reduce the boilerplate associated with Plain Old Java Objects (POJO).
 ## Lambda
